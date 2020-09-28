@@ -1,7 +1,20 @@
 ### Hey, welcome👋
-## My name is Alvin Raygon
-- 🌱 I’m currently learning the universe of contributing to open source!
-- 💬 Ask me about Android and IOS projects!
+
+```kotlin
+val alvinraygon = developer {
+    about {
+        name = "Roman Elizarov"
+        job = Freelance Mobile Developer
+    }
+    codes [
+        "kotlin",
+        "swift",
+        "java",
+        "c#"
+        ]
+}
+```
+
 - 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
 <!--
 **blackchalk/blackchalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
