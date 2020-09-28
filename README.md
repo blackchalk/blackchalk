@@ -11,7 +11,7 @@ val blackchalk = developer {
         "swift",
         "java",
         "c#"
-        ]
+    ]
 }
 ```
 
