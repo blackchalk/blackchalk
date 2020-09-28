@@ -3,7 +3,7 @@
 ```kotlin
 val alvinraygon = developer {
     about {
-        name = "Roman Elizarov"
+        name = "Alvin Raygon"
         job = Freelance Mobile Developer
     }
     codes [
