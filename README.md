@@ -1,7 +1,7 @@
 ### Hey, welcome👋
 
 ```kotlin
-val alvinraygon = developer {
+val blackchalk = developer {
     about {
         name = "Alvin Raygon"
         job = Freelance Mobile Developer
