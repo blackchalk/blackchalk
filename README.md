@@ -1,9 +1,18 @@
 ### Hey, welcome👋
 
 ```kotlin
-    class MobileDeveloper {
-        name = "Alvin Raygon"
+class MobileDeveloper { 
+    val name = "Alvin"
+    var codes = listOf("kotlin","swift","java","c#")
+    
+    fun present(){
+        println("Hello, I'm $name")
     }
+}
+
+    val p = MobileDeveloper()
+    p.present()
+    
 ```
 
 - 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
