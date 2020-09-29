@@ -1,18 +1,9 @@
 ### Hey, welcome👋
 
 ```kotlin
-val blackchalk = developer {
-    about {
+    class MobileDeveloper {
         name = "Alvin Raygon"
-        job = Freelance Mobile Developer
     }
-    codes [
-        "kotlin",
-        "swift",
-        "java",
-        "c#"
-    ]
-}
 ```
 
 - 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
