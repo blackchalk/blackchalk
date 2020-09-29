@@ -1,17 +1,17 @@
 ### Hello, I'm Alvin 👋
 
 ```kotlin
-class MobileDeveloper { 
-    val name = "Alvin"
-    var codes = listOf("kotlin","swift","java","c#")
-    
-    fun present(){
-        println("Hello, I'm $name 👋")
-    }
+class MobileDeveloper {
+  val name = "Alvin"
+  var codes = listOf("kotlin","swift","java","c#")
+
+  fun present(){
+     println("Hello, I'm $name 👋")
+  }
 }
 
-    val p = MobileDeveloper()
-    p.present()
+val p = MobileDeveloper()
+p.present()
     
 ```
 
