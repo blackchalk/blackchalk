@@ -1,4 +1,4 @@
-### Hey, welcome👋
+### Hello, I'm Alvin 👋
 
 ```kotlin
 class MobileDeveloper { 
@@ -6,7 +6,7 @@ class MobileDeveloper {
     var codes = listOf("kotlin","swift","java","c#")
     
     fun present(){
-        println("Hello, I'm $name")
+        println("Hello, I'm $name 👋")
     }
 }
 
