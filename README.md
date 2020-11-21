@@ -35,11 +35,10 @@ fun main(args: Array<String>) {
 }
     
 ```
-
-- 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
 <!--
 **blackchalk/blackchalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
