@@ -35,7 +35,8 @@ fun main(args: Array<String>) {
 }
     
 ```
-Try it with [Kotlin Online Compiler!](https://repl.it/languages/kotlin)[@replit](https://twitter.com/replit)
+Try it with [Kotlin Online Compiler!](https://repl.it/languages/kotlin)
+powered by [@replit](https://twitter.com/replit)
 <!--
 **blackchalk/blackchalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
