@@ -13,14 +13,8 @@ class MobileDeveloper {
   }
   
   fun superThink(language: String?): String{
-      var myAnswer : String
-      val result = codes.contains(language)
-      if(result){
-          myAnswer = "$language, I know that too! So cool!"
-      }else{
-          myAnswer = "$language, Wow I don't know that. Teach me!"
-      }
-      return myAnswer
+    val result = codes.contains(language)
+    return if(result) "$language, I know that too! So cool!" else "$language, Wow I don't know that. Teach me!"
   }
 }
 
@@ -40,16 +34,4 @@ Try it with [Kotlin Online Compiler!](https://repl.it/languages/kotlin)
 powered by [@replit](https://twitter.com/replit)
 <!--
 **blackchalk/blackchalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📫 How to reach me: [Send me an email message!](mailto:alvinraygon@yahoo.com?subject=[GitHub]%20Someone%20is%20trying%20to%20reach%20out!)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
